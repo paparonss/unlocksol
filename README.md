@@ -1,2 +1,2 @@
-# unlocksol-frontend
-Unlock hidden SOL in your wallet smarter
+# unlocksol
+Reveal hidden SOL in your wallet
