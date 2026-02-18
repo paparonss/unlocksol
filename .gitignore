@@ -1,0 +1,18 @@
+# Ignore node_modules (jangan push ke GitHub)
+node_modules/
+
+# Build output dari Vite
+dist/
+
+# File environment rahasia
+.env
+.env.local
+.env.development
+.env.production
+
+# File sampah Mac
+.DS_Store
+
+# File editor sementara
+.vscode/
+*.swp

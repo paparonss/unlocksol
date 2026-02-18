@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Custom theme/vars buat $USOL (tetep aman) */
+:root {
+  --sol-green: #00FFA3;
+  --usol-purple: #7C3AED;
+  --unlock-gold: #FFD700;
+}
+
+/* Contoh custom class kalau mau */
+.btn-unlock {
+  @apply bg-[var(--sol-green)] text-black font-bold py-4 px-8 rounded-xl hover:bg-[var(--usol-purple)] hover:text-white transition-all duration-300 shadow-lg;
+}
