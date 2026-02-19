@@ -25,5 +25,5 @@ UnlockSol revives that graveyard value — turning useless locked SOL into usabl
 ## Installation & Local Development
 1. Clone repo:
    ```bash
-   git clone https://github.com/paparonsnss/unlocksolsol.git
-   cd unlockssol
+   git clone https://github.com/paparonss/unlocksol.git
+   cd ~/Desktop/unlocksol
