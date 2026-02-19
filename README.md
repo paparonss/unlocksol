@@ -12,9 +12,10 @@ Live Demo: [https://unlocksol.vercel.app/](https://unlocksol.vercel.app/)
 - Close accounts safely and reclaim SOL automatically
 - User-friendly UI with real-time preview of recoverable amount
 
-## Why This Project? (Graveyard Hack Fit)
-Solana wallets often have "dead" SOL stuck in old/inactive token accounts from airdrops or failed tx.  
-UnlockSol revives that graveyard value — turning useless locked SOL into usable balance!
+## Why UnlockSol? (Value for Solana Ecosystem)
+Many Solana wallets have "dead" or locked SOL in inactive token accounts (from old airdrops, failed transactions, or dust).  
+UnlockSol resurrects that unused rent-exempt value (~0.002 SOL per account) back to the user's main balance, helping clean wallets, reduce network bloat, and improve user onboarding/experience on Solana.  
+This aligns with Solana's public goods ethos by providing a free, open-source tool that benefits the entire community — making Solana more accessible and efficient.
 
 ## Tech Stack
 - Frontend: Vite + React + TypeScript
